@@ -1,0 +1,1 @@
+import"./chunk-4CLCTAJ7.js";var n=[{path:"working",loadComponent:()=>import("./chunk-3CLVFUTW.js").then(o=>o.WorkingComponent)},{path:"agrement",loadComponent:()=>import("./chunk-4BF4KVNH.js").then(o=>o.AgrementComponent)}];export{n as routes};
