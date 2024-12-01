@@ -1,0 +1,1 @@
+import"./chunk-4CLCTAJ7.js";var o=[{path:"timeline",loadComponent:()=>import("./chunk-RVQNIPQ3.js").then(t=>t.OpportunitiesTimelineComponent)},{path:"prices",loadComponent:()=>import("./chunk-MUSXWITV.js").then(t=>t.OpportunitiesPricesComponent)}];export{o as routes};
